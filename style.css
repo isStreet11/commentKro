@@ -1,0 +1,19 @@
+.user_list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.user_list {
+    list-style: none;
+}
+
+.name {
+    font-size: 9px
+}
+
+.comment {
+    font-size: 12px;
+}
